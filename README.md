@@ -1,6 +1,6 @@
 # Flu-Shot-Vaccination-Analysis-Using-SQL-and-Tableau
 
-**Project Oerview:**
+**Project Overview:**
 
 This project aims to analyze flu shot compliance among a general population, focusing on key demographic segments to provide insights into vaccination trends. Using data on patient demographics and immunization records, the project visualizes flu shot uptake across different age groups, races, and geographic locations, and tracks the cumulative count of vaccinations over the course of a year.
 
@@ -41,7 +41,8 @@ The SQL code used to prepare the data utilizes Common Table Expressions (CTEs) a
 2) Flu Shot Records CTE: Extracts data on flu shots administered in 2022 using the vaccine code 5302.
 3) Main Query with JOINs: Combines demographic data with flu shot records, marking each patient as vaccinated or unvaccinated.
 
-The SQL code file is available in this repository as flu_shot_analysis_2022.sql.
+The SQL Tables file is available in this reporsitory as SQL_Tables.sql/SQL_Tables.txt
+The SQL code file is available in this repository as SQL_DataExtraction.sql/SQL_DataExtraction.txt.
 
 **Tableau Dashboard Features:**
 
